@@ -1,0 +1,7 @@
+/packages
+/.vs
+/GetGrid/bin
+/GetGrid/obj
+/GetGrid/publish
+
+*.user
